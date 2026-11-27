@@ -13,9 +13,6 @@
 - 📫C, Java, Python, HTML and JavaScript
 - 📫Git, GitHub and Docker
 ![Python](https://img.shields.io/badge/Python-blue)
-### 🏆 Achievements & Certifications
-
----
 
 ### 🎯 Event Management & Leadership
 * 🎪 Passionate about organizing and conducting **tech events and college fests**.
